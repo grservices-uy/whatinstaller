@@ -8,13 +8,13 @@ Firstly, you need to download it:
 ```bash
 sudo apt -y update && apt -y upgrade
 sudo apt install -y git
-git clone https://github.com/riservato-xyz/whaticket-installer.git
+git clone https://github.com/grservices-uy/whatinstaller.git
 ```
 
 Now, all you gotta do is making it executable:
 
 ```bash
-sudo chmod +x ./whaticket-installer/whaticket
+sudo chmod +x ./whatinstaller/whaticket
 ```
 
 ### usage
