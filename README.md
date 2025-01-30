@@ -1,4 +1,4 @@
-Interactive CLI tool for installing and updating whaticket
+Interactive CLI tool for installing and updating whaticket  by RISERVATO-XYZ
 
 ### download & setup
 
